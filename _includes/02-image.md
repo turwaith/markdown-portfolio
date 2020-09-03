@@ -1,0 +1,1 @@
+![My avatar, Beorn](../img/avatar.jpg)
