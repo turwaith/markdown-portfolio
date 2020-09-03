@@ -1,1 +1,1 @@
-![My avatar, Beorn](../img/avatar.jpg)
+![My avatar, Beorn](/./img/avatar.jpg)
